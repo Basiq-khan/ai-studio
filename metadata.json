@@ -1,0 +1,6 @@
+{
+  "name": "Alive Digitally Agency",
+  "description": "A premium, award-winning digital agency website focusing on immersive branding, development, and AI solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
