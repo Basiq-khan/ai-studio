@@ -204,12 +204,7 @@ export default function Hero({ onOpenPlanner, onScrollToWork }: HeroProps) {
       {/* Main Hero Elements wrapper */}
       <div className="relative z-10 max-w-7xl mx-auto w-full flex flex-col justify-start space-y-8 md:space-y-12">
         {/* Editorial Index Node Tag */}
-        <div className="flex items-center gap-2">
-          <div className="w-3.5 h-3.5 bg-[#CDF564] rounded-xs flex-shrink-0 animate-pulse" />
-          <span className="text-[10px] font-bold tracking-[0.4em] text-[#CDF564] uppercase font-mono pl-1">
-            CREATIVE DIGITAL AGENCY
-          </span>
-        </div>
+        
 
         {/* Headline Word Reveal (Uniquely styled) */}
         <motion.div
